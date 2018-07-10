@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ShapesNLP.NLPProcessor" CodeBehind="NLPProcessor.svc.cs" %>

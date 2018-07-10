@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="../Scripts/Text2ShapeDrawer.js"></script>
+</head>
+<body>
+
+
+    <h1>Text2Shapes</h1>
+
+    <p>Process text to draw shapes</p>
+
+    <table cellpadding="2" width="80%" border= "1" align="center" cellspacing="2">
+
+        <tr>
+            <td>Enter Text to draw shapes</td>
+            <td><input type=text name="inputText" id="inputText" size="90"></td>
+        </tr>
+
+    </table>
+    <button onclick="evaluateShape()">Generate Shape</button>
+
+    </br> </br>
+    <canvas id="myCanvas" width="600" height="300" style="border:1px solid #d3d3d3;"></canvas>
+        <div id="Error"></div></br></br>
+        <footer>
+            <b>Format:  Draw a(n) {shape} with a(n) {measurement} of {amount} (and a(n) {measurement} of {amount})</b>
+        </footer>
+
+</body>
+</html>

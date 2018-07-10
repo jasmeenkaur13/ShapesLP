@@ -1,0 +1,7 @@
+C:\Users\GD Singh\Desktop\jasmeen\ShapesNLP\ShapesNLP\bin\ShapesNLP.dll.config
+C:\Users\GD Singh\Desktop\jasmeen\ShapesNLP\ShapesNLP\bin\ShapesNLP.dll
+C:\Users\GD Singh\Desktop\jasmeen\ShapesNLP\ShapesNLP\bin\ShapesNLP.pdb
+C:\Users\GD Singh\Desktop\jasmeen\ShapesNLP\ShapesNLP\obj\Debug\ShapesNLP.csprojAssemblyReference.cache
+C:\Users\GD Singh\Desktop\jasmeen\ShapesNLP\ShapesNLP\obj\Debug\ShapesNLP.csproj.CoreCompileInputs.cache
+C:\Users\GD Singh\Desktop\jasmeen\ShapesNLP\ShapesNLP\obj\Debug\ShapesNLP.dll
+C:\Users\GD Singh\Desktop\jasmeen\ShapesNLP\ShapesNLP\obj\Debug\ShapesNLP.pdb
